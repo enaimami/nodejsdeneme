@@ -1,0 +1,11 @@
+{
+  "name": "nodejsdeneme",
+  "version": "1.0.0",
+  "description": "gerçekten bir deneme. umarım 20 yıl sonra geri dönmem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
